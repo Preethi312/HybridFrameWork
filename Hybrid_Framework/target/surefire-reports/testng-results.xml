@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Stock-000001689   Stock-000001689]]>
+    </line>
+    <line>
+      <![CDATA[Supplier-00000003525   Supplier-00000002828]]>
+    </line>
+    <line>
+      <![CDATA[Customer-00000006666   Customer-00000006666]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-06-03T13:30:56 IST" name="Surefire suite" finished-at="2024-06-03T13:31:42 IST" duration-ms="46002">
+    <groups>
+    </groups>
+    <test started-at="2024-06-03T13:30:56 IST" name="Surefire test" finished-at="2024-06-03T13:31:42 IST" duration-ms="46002">
+      <class name="driverFactory.AppTest">
+        <test-method signature="kickStart()[pri:0, instance:driverFactory.AppTest@7817fd62]" started-at="2024-06-03T13:30:56 IST" name="kickStart" finished-at="2024-06-03T13:31:42 IST" duration-ms="45962" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Stock-000001689   Stock-000001689]]>
+            </line>
+            <line>
+              <![CDATA[Supplier-00000003525   Supplier-00000002828]]>
+            </line>
+            <line>
+              <![CDATA[Customer-00000006666   Customer-00000006666]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- kickStart -->
+      </class> <!-- driverFactory.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
